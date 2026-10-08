@@ -1,1 +1,1 @@
-Focused on artificial intelligence, machine learning, LLMs, and neural networks.
+Learning for & with AI
